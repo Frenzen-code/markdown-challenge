@@ -6,25 +6,31 @@
 
 ## Hello I am Philippe, I am 31 and that's pretty much it. 
 
-| . | . |
+| Infos |  |
 | ----------- | ----------- |
 | Birthday | 04/06 |
 | Favorite color | green |
 | Favorite food | Pizza | 
-| Pinneapple on pizza ? | Are you insane ? | 
+| Pinneapple on pizza  | ☐ Are you insane ? | 
 
 ## Hobbies :
 
-1. Cinema 
+1. **Cinema** 
 - Mullholand drive
 - The game
 - Gone girl
 
-2. Music
+2. **Music**
 
-3. Video games
+3. **Video games**
 
 ## A funny story
 ### Becode, first day, I sat near Jerry 
+
+
+### My team mates
+
+
+[Previous]() ∣∣ PHILIPPE OFFERMANS ∣∣ [Next](https://discordapp.com/channels/@me/939090065408290816/939090068751142953)
 
 

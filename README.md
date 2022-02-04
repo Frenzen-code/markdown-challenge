@@ -30,6 +30,6 @@
 
 
 ## My team mates:
-[Previous]() ∣∣ PHILIPPE OFFERMANS ∣∣ [Next](https://github.com/KezzouRaphael/markdown-challenge/blob/main/README.md)
+[Previous](https://github.com/SapinSobre/markdown-challenge) ∣∣ PHILIPPE OFFERMANS ∣∣ [Next](https://github.com/KezzouRaphael/markdown-challenge/blob/main/README.md)
 
 

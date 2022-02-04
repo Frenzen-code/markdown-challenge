@@ -28,9 +28,8 @@
 ### Becode, first day, I sat near Jerry 
 
 
+
 ### My team mates
-
-
 [Previous]() ∣∣ PHILIPPE OFFERMANS ∣∣ [Next](https://discordapp.com/channels/@me/939090065408290816/939090068751142953)
 
 
